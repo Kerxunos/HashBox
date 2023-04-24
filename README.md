@@ -1,2 +1,16 @@
 # HashBox
-Hash Encoder-Decoder Bruteforce tool
+
+![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox)
+![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox)
+![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox)
+![Codecs](https://img.shields.io/pypi/v/codecs)
+![Hashlib](https://img.shields.io/pypi/v/hashlib)
+![Colorama](https://img.shields.io/pypi/v/colorama)
+![Observatory_Grade](https://img.shields.io/mozilla-observatory/grade/github.com?publish)
+![commit_acitivity](https://img.shields.io/github/commit-activity/w/Kerxunos/HashBox)
+![pyapi_format](https://img.shields.io/pypi/format/colorama)
+![pyapi_format](https://img.shields.io/pypi/format/hashlib)
+![pyapi_format](https://img.shields.io/pypi/format/codecs)
+![pymodule_ver](https://img.shields.io/pypi/pyversions/colorama)
+![pymodule_ver](https://img.shields.io/pypi/pyversions/hashlib)
+![pymodule_ver](https://img.shields.io/pypi/pyversions/codecs)
