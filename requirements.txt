@@ -1,4 +1,4 @@
-base64
-codecs
+pybase64
+openapi-codec
 hashlib
 colorama
