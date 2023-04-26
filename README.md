@@ -1,5 +1,6 @@
 # HashBox
-**Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir, bu aracı yükleyerek sorumluluk reddi beyanını kabul etmiş olursunuz**
+***Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir, bu aracı yükleyerek sorumluluk reddi beyanını kabul etmiş olursunuz***
+
 ![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox?style=plastic&logo=appveyor)
 ![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox?style=plastic&logo=appveyor)
 ![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox?style=plastic&logo=appveyor)
