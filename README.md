@@ -40,7 +40,8 @@ pip install -r requirements.tx
 - rot13
 
 ## Ekran Görüntüleri
-HashBox Ekran Görüntüsü 1
+HashBox Ekran Görüntüsü 1:
+![hashbox py - Visual Studio Code 26 04 2023 21_41_33 (2)](https://user-images.githubusercontent.com/113096235/234672532-3eed2cf0-b37b-440b-8d92-aa223f271133.png)
 
 HashBox Ekran Görüntüsü 2
 
