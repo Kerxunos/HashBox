@@ -26,26 +26,20 @@ Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
 pip install -r requirements.tx
 ```
 
-HashBox'u kullanmak için, aşağıdaki komutları kullanabilirsiniz:
-
-python hashbox.py -h    # Yardım mesajını görüntüleme
-python hashbox.py encode <string> <algorithm>    # Hash veya rot encode
-python hashbox.py decode <hash/rot> <algorithm>  # Hash veya rot brute force ile decode
-algorithm parametresi olarak md5, sha1, sha256, sha512 gibi desteklenen algoritmaları kullanabilirsiniz.
-
 Örnek kullanımlar:
-
-bash
-Copy code
+```
 python hashbox.py encode "hello world" md5
+```
+```
 python hashbox.py decode 5eb63bbbe01eeed093cb22bb8f5acdc3 md5
-Ekran Görüntüleri
+```
+## Ekran Görüntüleri
 HashBox Ekran Görüntüsü 1
 
 HashBox Ekran Görüntüsü 2
 
-Lisans
+## Lisans
 Bu proje GPL-3.0 lisansı altında dağıtılmaktadır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
 
-Katkıda Bulunma
+## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen bir issue açarak veya pull request göndererek bize ulaşın. Kabul edilebilir davranış kuralları ve katkıda bulunma rehberi için CONTRIBUTING.md dosyasına bakın.
