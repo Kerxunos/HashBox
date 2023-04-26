@@ -8,10 +8,10 @@ Bir hata düzeltmesi veya yeni bir özellik eklemek istiyorsanız, lütfen önce
 
 Pull request göndermeden önce, lütfen aşağıdaki adımları takip edin:
 - Fork edin ve kendi hesabınıza bir kopya oluşturun.
-- Yeni bir dal (branch) oluşturun: git checkout -b feature/feature-name.
+- Yeni bir dal (branch) oluşturun: 'git checkout -b feature/feature-name'.
 - Yapılandırma, belgeleme veya kod düzenlemesi gibi değişiklikler için yeterli açıklama ekleyin.
 - Kodu test edin ve herhangi bir hata veya çakışma olmadığından emin olun.
-- Fork edilmiş projenize push edin: git push origin feature/feature-name.
+- Fork edilmiş projenize push edin: 'git push origin feature/feature-name'.
 - Pull request göndermek için GitHub'da ana projenize geri dönün ve Pull Request butonuna tıklayın.
 - Açıklamaya, pull request'inizi ayrıntılı bir şekilde açıklayan bir mesaj ekleyin.
 - Proje yöneticileri, kodu kontrol edecek ve uygun olduğunda master dalına birleştireceklerdir. Eğer birleştirme işlemi sırasında herhangi bir sorunla karşılaşırsanız, sizinle iletişime geçeceğiz ve sorunu çözmek için birlikte çalışacağız.
