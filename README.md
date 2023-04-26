@@ -1,5 +1,4 @@
 # HashBox
-***Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir, bu aracı yükleyerek sorumluluk reddi beyanını kabul etmiş olursunuz***
 
 ![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox?style=plastic&logo=appveyor)
 ![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox?style=plastic&logo=appveyor)
@@ -12,6 +11,10 @@
 ![pyapi_format](https://img.shields.io/pypi/format/colorama?style=plastic&logo=appveyor)
 ![pyapi_format](https://img.shields.io/pypi/format/hashlib?style=plastic&logo=appveyor)
 ![pyapi_format](https://img.shields.io/pypi/format/pybase64?style=plastic&logo=appveyor)
+
+## Önemli Uyarı
+**Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir**
+**bu aracı yükleyerek sorumluluk reddi beyanını kabul etmiş olursunuz**
 
 ## HashBox
 HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, manuel salt özelliğine sahip kullanımı basit ve dinamik bir araçtır
