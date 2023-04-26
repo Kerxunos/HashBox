@@ -1,16 +1,16 @@
 # HashBox
 
-![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox)
-![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox)
-![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox)
-![Hashlib](https://img.shields.io/pypi/v/hashlib)
-![Colorama](https://img.shields.io/pypi/v/colorama)
-![Base64](https://img.shields.io/pypi/v/pybase64)
-![Observatory_Grade](https://img.shields.io/mozilla-observatory/grade/github.com?publish)
-![commit_acitivity](https://img.shields.io/github/commit-activity/w/Kerxunos/HashBox)
-![pyapi_format](https://img.shields.io/pypi/format/colorama)
-![pyapi_format](https://img.shields.io/pypi/format/hashlib)
-![pyapi_format](https://img.shields.io/pypi/format/pybase64)
+![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Hashlib](https://img.shields.io/pypi/v/hashlib?style=plastic&logo=appveyor)
+![Colorama](https://img.shields.io/pypi/v/colorama?style=plastic&logo=appveyor)
+![Base64](https://img.shields.io/pypi/v/pybase64?style=plastic&logo=appveyor)
+![Observatory_Grade](https://img.shields.io/mozilla-observatory/grade/github.com?publish?style=plastic&logo=appveyor)
+![commit_acitivity](https://img.shields.io/github/commit-activity/w/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/colorama?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/hashlib?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/pybase64?style=plastic&logo=appveyor)
 
 ## HashBox
 HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, manuel salt özelliğine sahip kullanımı basit ve dinamik bir araçtır
