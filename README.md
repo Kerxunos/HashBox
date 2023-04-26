@@ -1,6 +1,6 @@
 # HashBox
 
-![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox)
+![License](https://img.shields.io/github/license/Kerxunos/HashBox)
 ![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox)
 ![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox)
 ![Codecs](https://img.shields.io/pypi/v/codecs)
