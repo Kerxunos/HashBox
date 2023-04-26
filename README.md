@@ -11,24 +11,23 @@
 ![pyapi_format](https://img.shields.io/pypi/format/colorama)
 ![pyapi_format](https://img.shields.io/pypi/format/hashlib)
 ![pyapi_format](https://img.shields.io/pypi/format/codecs)
-HashBox
+
+## HashBox
 HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, renkli bir çıktı sağlamak için colorama kütüphanesi de kullanılır.
 
-Kullanım
+## Kullanım
 HashBox'u kullanmak için öncelikle programı klonlayın:
+```
+git clone https://github.com/Kerxunos/HashBox.git
+```
 
-bash
-Copy code
-git clone https://github.com/kullanıcıadı/HashBox.git
 Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
+```
+pip install -r requirements.tx
+```
 
-bash
-Copy code
-pip install -r requirements.txt
 HashBox'u kullanmak için, aşağıdaki komutları kullanabilirsiniz:
 
-bash
-Copy code
 python hashbox.py -h    # Yardım mesajını görüntüleme
 python hashbox.py encode <string> <algorithm>    # Hash veya rot encode
 python hashbox.py decode <hash/rot> <algorithm>  # Hash veya rot brute force ile decode
