@@ -1,4 +1,46 @@
 # Katkıda Bulunma Rehberi
+Bu proje, sizin gibi geliştiricilerin katkılarıyla daha iyi hale gelir. Katkıda bulunmak istiyorsanız, lütfen aşağıdaki adımları izleyin.
+
+## Ön Gereksinimler
+Bu projede çalışmak için aşağıdaki ön gereksinimlere ihtiyacınız olacak:
+
+- Python 3.0
+- Git
+- Pip
+## Katkıda Bulunma Adımları
+
+1. Projenin bir kopyasını alın:
+```
+git clone https://github.com/kerxunos/HashBox.git
+```
+
+2. Ana dalın en son sürümüne güncelleme yapın:
+```
+git pull
+```
+
+3. Yeni bir dal oluşturun:
+```
+git checkout -b ozel-bir-dal-adi
+```
+
+4. Değişikliklerinizi yapın ve test edin.
+
+5. Değişikliklerinizi gönderin:
+```
+git add .
+git commit -m "Açıklayıcı bir değişiklik mesajı"
+git push origin ozel-bir-dal-adi
+```
+
+6. Pull isteği gönderin. Değişikliklerinizin kabul edilmesi için projenin sahibi tarafından incelemeye alınacak:
+
+- Lütfen pull isteği açmadan önce sonraki adımları izleyin:
+- Kodunuzu test edin ve olası hataları düzeltin.
+- Kodunuzun uygun şekilde belgelendirildiğinden emin olun.
+- Kodunuzda okunabilirlik ve stil konularına özen gösterin.
+
+7. İnceleme işlemi sona erdiğinde, kodunuz projeye dahil edilecektir.
 
 ## Issue Raporlama
 Bir hata veya özellik isteği keşfettiyseniz, lütfen bir issue açarak bildirin. Konuyla ilgili mümkün olduğunca ayrıntılı bir açıklama ekleyin. Sorunu tekrar üretebilmemiz için adım adım talimatlar veya ekran görüntüleri ekleyebilirsiniz.
@@ -26,3 +68,11 @@ Katılımın, herkes için saygılı ve profesyonel bir ortamda gerçekleşmesin
 - Özel bilgileri açıklamaktan veya başkalarının gizliliğini ihlal etmekten kaçının.
 - Lisans gereksinimlerine ve telif hakkı yasalarına uygun davranın.
 - Bu davranış kurallarına uymayan davranış
+
+## İletişim
+
+Herhangi bir sorunuz veya öneriniz varsa, tarhanfurkan157@gmail.com hesabına mail gönderin veya lütfen iletişim bölümünden bize ulaşın.
+
+## Lisans
+
+Bu proje GPL-3.0 lisansı ile lisanslanmıştır. Katkılarınız bu lisans altında paylaşılacaktır.
