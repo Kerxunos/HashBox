@@ -3,14 +3,14 @@
 ![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox)
 ![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox)
 ![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox)
-![Codecs](https://img.shields.io/pypi/v/codecs)
 ![Hashlib](https://img.shields.io/pypi/v/hashlib)
 ![Colorama](https://img.shields.io/pypi/v/colorama)
+![Base64](https://img.shields.io/pypi/v/pybase64)
 ![Observatory_Grade](https://img.shields.io/mozilla-observatory/grade/github.com?publish)
 ![commit_acitivity](https://img.shields.io/github/commit-activity/w/Kerxunos/HashBox)
 ![pyapi_format](https://img.shields.io/pypi/format/colorama)
 ![pyapi_format](https://img.shields.io/pypi/format/hashlib)
-![pyapi_format](https://img.shields.io/pypi/format/codecs)
+![pyapi_format](https://img.shields.io/pypi/format/pybase64)
 
 ## HashBox
 HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, manuel salt özelliğine sahip kullanımı basit ve dinamik bir araçtır
