@@ -16,15 +16,28 @@
 HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, kullanımı basit ve dinamik bir araçtır
 
 ## Kullanım
-HashBox'u kullanmak için öncelikle programı klonlayın:
+### HashBox'u kullanmak için öncelikle programı klonlayın:
 ```
 git clone https://github.com/Kerxunos/HashBox.git
 ```
 
-Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
+### Gerekli kütüphaneleri yüklemek için aşağıdaki komutu çalıştırın:
 ```
 pip install -r requirements.tx
 ```
+
+### Desteklenen  Hash-Encoding türleri:
+- md5
+- sha1
+- sha256
+- sha512
+- sha384
+- sha224
+- base16
+- base32
+- base64
+- base85
+- rot13
 
 ## Ekran Görüntüleri
 HashBox Ekran Görüntüsü 1
