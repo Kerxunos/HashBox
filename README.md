@@ -13,7 +13,7 @@
 ![pyapi_format](https://img.shields.io/pypi/format/codecs)
 
 ## HashBox
-HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, kullanımı basit ve dinamik bir araçtır
+HashBox, Python dilinde yazılmış bir hash ve rot şifrelemesi encode/decode aracıdır. Bu araç, hashlib ve codecs gibi Python kütüphaneleri kullanarak hash ve rot şifrelemelerini encode etmenize veya brute force ile decode etmenize olanak tanır. Ayrıca, manuel salt özelliğine sahip kullanımı basit ve dinamik bir araçtır
 
 ## Kullanım
 ### HashBox'u kullanmak için öncelikle programı klonlayın:
@@ -44,6 +44,7 @@ HashBox Ekran Görüntüsü 1:
 ![hashbox py - Visual Studio Code 26 04 2023 21_41_33 (2)](https://user-images.githubusercontent.com/113096235/234672532-3eed2cf0-b37b-440b-8d92-aa223f271133.png)
 
 HashBox Ekran Görüntüsü 2
+![hashbox py - Visual Studio Code 26 04 2023 21_49_28 (3)](https://user-images.githubusercontent.com/113096235/234674265-853e59ca-159b-4478-ac25-072b4fd82524.png)
 
 ## Lisans
 Bu proje GPL-3.0 lisansı altında dağıtılmaktadır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
