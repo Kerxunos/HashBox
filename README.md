@@ -50,6 +50,7 @@ HashBox Encoding:
 ![hashbox py - Visual Studio Code 26 04 2023 21_41_33 (2)](https://user-images.githubusercontent.com/113096235/234672532-3eed2cf0-b37b-440b-8d92-aa223f271133.png)
 
 HashBox Decoding:
+
 ![● hashbox py - Visual Studio Code 26 04 2023 22_10_20 (2)](https://user-images.githubusercontent.com/113096235/234679008-90d15726-f0e6-49e0-a7fd-c6e7a040702d.png)
 
 ![hashbox py - Visual Studio Code 26 04 2023 21_49_28 (3)](https://user-images.githubusercontent.com/113096235/234674265-853e59ca-159b-4478-ac25-072b4fd82524.png)
