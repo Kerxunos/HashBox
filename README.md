@@ -14,6 +14,7 @@
 
 ## Önemli Uyarı
 **Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir**
+
 **bu aracı yükleyerek sorumluluk reddi beyanını kabul etmiş olursunuz**
 
 ## HashBox
