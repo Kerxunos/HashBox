@@ -46,7 +46,6 @@ if(enc_dcd == "D" or enc_dcd == "d"):
     if(hashtype == "md5" or hashtype == "sha1" or hashtype == "sha256" or hashtype == "sha512" or hashtype == "sha384" or hashtype == "sha224"):
         wordlist = str(input("Wordlist path: "))
         f = open(f"{wordlist}","r")
-        tanım = str(input("giriş: "))
         line = f.readlines()
         count = len(line)
     password = input("Hash-Encoding: ")
