@@ -2,3 +2,6 @@ pybase64
 openapi-codec
 hashlib
 colorama
+crypto
+pycryptodome
+pycryptodomex
