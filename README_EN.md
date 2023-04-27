@@ -1,5 +1,17 @@
 # HashBox
 
+![License: GPL v3](https://img.shields.io/github/license/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Coding](https://img.shields.io/github/languages/top/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Size](https://img.shields.io/github/languages/code-size/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![Hashlib](https://img.shields.io/pypi/v/hashlib?style=plastic&logo=appveyor)
+![Colorama](https://img.shields.io/pypi/v/colorama?style=plastic&logo=appveyor)
+![Base64](https://img.shields.io/pypi/v/pybase64?style=plastic&logo=appveyor)
+![Observatory_Grade](https://img.shields.io/mozilla-observatory/grade/github.com?publish?style=plastic&logo=appveyor)
+![commit_acitivity](https://img.shields.io/github/commit-activity/w/Kerxunos/HashBox?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/colorama?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/hashlib?style=plastic&logo=appveyor)
+![pyapi_format](https://img.shields.io/pypi/format/pybase64?style=plastic&logo=appveyor)
+
 ## Important Warning
 ### TR
 **Bu araç eğitim amaçlıdır herhangi bir kötüye kullanım durumunda geliştirici sorumlu değildir!**
