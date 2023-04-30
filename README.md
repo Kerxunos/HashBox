@@ -67,4 +67,4 @@ This project is distributed under the GPL-3.0 license. See the LICENSE file for 
 If you would like to contribute to this project, please reach out to us by opening an issue or submitting a pull request. See the CONTRIBUTING.md file for acceptable behavior and contribution guidelines.
 
 ## Last Words
-Why are you waiting for go and crack some hashes, enjoy it !
+Why are you waiting for? Go and crack some hashes, enjoy it !
