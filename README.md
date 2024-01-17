@@ -33,7 +33,7 @@ git clone https://github.com/Kerxunos/HashBox.git
 ```
 ### Run the following command to install the required libraries:
 ```
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 
 ### Supported Hash-Encoding Types:
