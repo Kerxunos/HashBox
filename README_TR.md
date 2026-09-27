@@ -66,6 +66,7 @@ Bu proje GPL-3.0 lisansı altında dağıtılmaktadır. Daha fazla bilgi için L
 
 ## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen bir issue açarak veya pull request göndererek bize ulaşın. Kabul edilebilir davranış kuralları ve katkıda bulunma rehberi için CONTRIBUTING.md dosyasına bakın.
+
 ## v3.0 - Değişiklikler
 
 - **Kod yeniden yapılandırıldı**: tekrarlanan if/elif blokları yerine
