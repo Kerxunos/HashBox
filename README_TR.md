@@ -66,3 +66,13 @@ Bu proje GPL-3.0 lisansı altında dağıtılmaktadır. Daha fazla bilgi için L
 
 ## Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen bir issue açarak veya pull request göndererek bize ulaşın. Kabul edilebilir davranış kuralları ve katkıda bulunma rehberi için CONTRIBUTING.md dosyasına bakın.
+## v3.0 - Değişiklikler
+
+- **Kod yeniden yapılandırıldı**: tekrarlanan if/elif blokları yerine
+  algoritma sözlükleri kullanıldı, okunabilirlik ve genişletilebilirlik arttı
+- **Salt düzeltildi**: artık elle yazılan bir metin değil, otomatik
+  üretilen kriptografik olarak güvenli rastgele bir değer
+- **20+ yeni tür eklendi**: sha3 ailesi, blake2, shake, crc32/adler32,
+  base64url, ascii85, hex, rot47, Caesar, Vigenère, XOR
+- base85 encode bug'ı düzeltildi
+- Daha iyi hata yönetimi, utf-8 desteği
