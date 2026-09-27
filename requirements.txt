@@ -1,7 +1,1 @@
-pybase64
-openapi-codec
-hashlib
-colorama
-crypto
-pycryptodome
-pycryptodomex
+colorama>=0.4.6
