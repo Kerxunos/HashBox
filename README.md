@@ -68,3 +68,14 @@ If you would like to contribute to this project, please reach out to us by openi
 
 ## Last Words
 Thanks for using
+
+## v3.0 - Changelog
+
+- **Codebase refactored**: repetitive if/elif blocks replaced with
+  algorithm dictionaries for better readability and extensibility
+- **Salt handling fixed**: no longer a manually typed string — now a
+  cryptographically secure, auto-generated random value
+- **20+ new types added**: sha3 family, blake2, shake, crc32/adler32,
+  base64url, ascii85, hex, rot47, Caesar, Vigenère, XOR
+- Fixed a base85 encoding bug
+- Better error handling, full UTF-8 support
